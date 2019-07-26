@@ -11,4 +11,5 @@ def main(argv=None) :
 	...
 
 if __name__ == "__main__" :
+	sysArgv.insert(0, "--scripted")  # Called as standalone script
 	main(sysArgv)
