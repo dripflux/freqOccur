@@ -1,0 +1,5 @@
+General Project:
+	- Setup weekly devOPS push all
+	- Setup weekly devOPS dev to unstable
+	- Setup setup.py
+	- Setup Pipfile
